@@ -6,7 +6,7 @@ import Business from './components/Business';
 import CardDeal from './components/CardDeal';
 import Clients from './components/Clients';
 import CTA from './components/CTA';
-import Stats from './components/stats';
+import Stats from './components/Stats';
 import Testimonials from './components/Testimonials';
 import View from './components/View';
 import Footer from './components/Footer';
